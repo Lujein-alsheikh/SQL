@@ -1,0 +1,1 @@
+This repository contains solutions to SQL problems from different sources such as solutions to assignments from courses or platforms with problems such as [dataexpert] (https://dataexpert.io/questions).
